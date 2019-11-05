@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            tools:text="Test Text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="sdfvbjnlm;lvkcjhxzcjvkbjlnk\n"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="A discovery of Stone Age artefacts during the 2001 census of India at Jalahalli, Sidhapura and Jadigenahalli, all of which are located on Bangalore's outskirts today, suggest probable human settlement around 4,000 BCE.[33] Around 1,000 BCE (Iron Age), burial
+The region of modern-day Bangalore was part of several successive South Indian kingdoms. Between the fourth and the tenth centuries, the Bangalore region was ruled by the Western Ganga Dynasty of Karnataka, the first dynasty to set up effective control over the region.[35] According to Edgar Thurston[36] there were twenty-eight kings who ruled Gangavadi from the start of the Christian era until its conquest by the Cholas. These kings belonged to two distinct dynasties: the earlier line of the Solar race which had a succession of seven kings of the Ratti or Reddi tribe, and the later line of the Ganga race. The Western Gangas ruled the region initially as a sovereign power (350–550), and later as feudatories of the Chalukyas of Badami, followed by the Rashtrakutas until the tenth century.[26] The Begur Nageshwara Temple was commissioned around 860, during the reign of the Western Ganga King Ereganga Nitimarga I and extended by his successor Nitimarga II.[37][38] Around 1004, during the reign of Raja Raja Chola I, the Cholas defeated the Western Gangas under the command of the crown prince Rajendra Chola I, and captured Bangalore.[37][39] During this period, the Bangalore region witnessed the migration of many groups — warriors, administrators, traders, artisans, pastorals, cultivators, and religious personnel from Tamil Nadu and other Kannada speaking regions.[35] The Chokkanathaswamy temple at Domlur, the Aigandapura complex near Hesaraghatta, Mukthi Natheshwara Temple at Binnamangala, Choleshwara Temple at Begur, Someshwara Temple at Madiwala, date from the Chola era.[37]
+
+In 1117, the Hoysala king Vishnuvardhana defeated the Cholas in the Battle of Talakad in south Karnataka, and extended its rule over the region.[37] Vishnuvardhana expelled the Cholas from all parts of Mysore state.[40] By the end of the 13th century, Bangalore became a source of contention between two warring cousins, the Hoysala ruler Veera Ballala III of Halebidu and Ramanatha, who administered from the Hoysala held territory in Tamil Nadu.[37] Veera Ballala III had appointed a civic head at Hudi (now within Bangalore Municipal Corporation limits), thus promoting the village to the status of a town. After Veera Ballala III's death in 1343, the next empire to rule the region was the Vijayanagara Empire, which itself saw the rise of four dynasties, the Sangamas (1336–1485), the Saluvas (1485–1491), the Tuluvas (1491–1565), and the Aravidu (1565–1646).[41] During the reign of the Vijayanagara Empire, Achyuta Deva Raya of the Tuluva Dynasty raised the Shivasamudra Dam across the Arkavati river at Hesaraghatta, whose reservoir is the present city's supply of regular piped water.
+                    grounds were established at Koramangala and Chikkajala on the outskirts of Bangalore. Coins of the Roman emperors Augustus, Tiberius, and Claudius found at Yeswanthpur and HAL indicate that the region was involved in trans-oceanic trade with the Romans and other civilizations in 27 BCE"/>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

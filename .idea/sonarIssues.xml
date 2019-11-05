@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidStudioProjects/AndroidSwipeableCardStack/DemoApp/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidStudioProjects/AndroidSwipeableCardStack/DemoApp/src/main/java/wxj/swipeablecardstack/CardsDataAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AndroidStudioProjects/AndroidSwipeableCardStack/DemoApp/src/main/res/layout/card_content.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Katex/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Katex/app/src/main/java/com/patelheggere/katex/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Katex/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/java/com/oustme/oustapp/ViewRepresenter/OustLoginActivityPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/java/com/oustme/oustapp/activity/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/java/com/oustme/oustapp/activity/OustLoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/java/com/oustme/oustapp/activity/SplashActivity_.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/java/com/oustme/oustapp/activity/newlogin/fragments/MobileOTPVerifyFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/java/com/oustme/oustapp/activity/newlogin/fragments/UserIdPwdFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/java/com/oustme/oustapp/library/httputils/HttpManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/java/com/oustme/oustapp/library/tools/OustAnalyticsTools.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/res/layout/fragment_userid_password.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/app/src/main/res/values/resturls.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Oust-Gradle/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/activity/assessments/learningdiary/LearningDiaryActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/activity/assessments/learningdiary/LearningDiaryPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/activity/assessments/learningdiary/LearningDiaryView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/activity/common/NewLandingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/activity/common/noticeBoard/activity/NBCommentActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/activity/common/noticeBoard/activity/NBPostDetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/activity/courses/learningmapmodule/AdaptiveLearningMapModuleActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/activity/courses/learningmapmodule/LearningMapModuleActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/adapter/common/NewLandingAlertAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/firebase/common/NewFeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/firebase/common/OustFirebaseTools.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/tools/CommonTools.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/tools/HttpManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/tools/OustSdkApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/java/com/oustme/oustsdk/tools/appconstants/AppConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OustSDK/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/assets/chatbot.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/GLUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/KatexActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/SelectionActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/Settings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/VideoExoPlayer2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/VideoScene.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/VideoSceneRenderer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/WatchVideoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/cardstack/CardStackActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/cardstack/CardsDataAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/cardstack/DataModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/chatbot/ChatBotActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/chatbot/ChatrBotActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/KatexView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/Chunk.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/ChunkFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/ChunkLocale.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/CondLexer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/CondTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/Conditional.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/ContentSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/Filter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/IfTag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/InlineTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/LocaleTag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/LoopTag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/MacroTag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/ObjectTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/SimpleTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/TableOfMaps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/Theme.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/filters/AlternateFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/filters/Base64DecodeFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/filters/Base64EncodeFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/filters/BasicFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/filters/BooleanFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/filters/Calc.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/filters/CalcFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/filters/ChunkFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/hamsa/threesixty/katex/x5/template/filters/ReverseFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_card_stack.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_chat_bot.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_chatr_bot.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_katex.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_selection.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/card_content.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/attrs.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
